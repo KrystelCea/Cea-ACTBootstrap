@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krystel Cea | Resume</title>
+    <link   rel="stylesheet" href="Design.css">
+</head>
+<body>
+    
+    <div id="inner-nav"></div>
+    <div id="container">
+        <div id="profile">
+            <div id="image">
+                <img id="profile-photo" src="2x2.jpg" alt="Profile-Image">
+                <a href="#"><i class="fas fa-pen stroke-transparent"></i></a>
+            </div>
+            <p id="name">KRYSTEL A. CEA<br><span id="email">krsytel.cea@tup.edu.ph</span></p>
+            <p id="designation">Pre-Service Teacher<br><span id="college">Technological University of the Philippines</span></p>
+            <a href="https://www.facebook.com/TUPian/"><img id="facebook" src="facebook icon.png"  width="40px"></a>
+		    <a href="https://twitter.com/tupmanila?lang=en"><img id="twitter" src="twitter icon.png"  width="40px"></a>
+		    <a href="https://www.instagram.com/"><img id="instagram" src="instagram icon.png" width="40px"></a>
+            <hr width="100%">
+            <div id="about">
+                <p style="display:inline;">Career Objectives</p>
+                <a href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a>
+            </div>
+            <p id="fax">To apply any position that will fit my qualification . To have more experiences which offer continues opportunity for an excellent career development.
+            </strong></p>
+            <div id="about">
+                <p style="display:inline;">Personal Information</p>
+                <a href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a>
+            </div>
+        
+            <p id="fax">Age<br><strong>20 yrs. old</strong></p>
+            <p id="fax">Date of Birth<br><strong>December 8, 2001</strong></p>
+            <p id="fax">Place of Birth<br><strong>Barangay Muzon, City of San Jose Del Monte Bulacan</strong></p>
+            <p id="fax">Sex<br><strong>Female</strong></p>
+            <p id="fax">Marital<br><strong>Single</strong></p>
+            <p id="fax">Religion<br><strong>Roman Catholic</strong></p>
+            <p id="fax">Nationality<br><strong>Female</strong></p>
+            <p id="more-about">Address<br><span>Barangay Muzon, City of San Jose Del Monte Bulacan</span></p>
+            <p id="telephone">Contant Number<br><strong>+639 677 829 593</strong></p>
+            <p id="year-graduation">Expected Year of Graduation<br><strong>June, 2024</strong></p>
+            <p id="education">Education<br><strong>Bachelor of Science in Industrial Education Major in Information and Communication Technology</strong></p>
+            
+        </div>
+            
+        <div id="info-cards">
+            <div class="card">
+                <p><i class="fas fa-briefcase stroke-transparent"></i>&nbsp;&nbsp;&nbsp;EDUCATION</p>
+                <ul>
+                    <li><p class="tags">Holy Angel School of Sarmiento Inc.<br><span>Primary | <span>2014</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">Arellano University<br><span>Secondary | <span>2020</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">Technological University of the Philippines<br><span>Tertiary | <span>Present</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                   
+                </ul>
+                
+                
+            </div>
+            <div class="card">
+                <p><i class="fas fa-briefcase stroke-transparent"></i>&nbsp;&nbsp;&nbsp;ACHIEVEMENTS</p>
+                <ul>
+                    <li><p class="tags">Leadership Award<br><span>Muzon National High School | <span>2018</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">With Honors<br><span>Muzon National High School | <span>2018</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">With Honors<br><span>Arellano University | <span>2020</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    
+                </ul>
+               
+            </div>
+            <div class="card">
+                <p><i class="fas fa-graduation-cap stroke-transparent"></i>&nbsp;&nbsp;&nbsp;TRAININGS/SEMINARS ATTENDED
+                </p>
+                <ul>
+                    <li><p class="tags">Leadership Seminar<br><span>San Isidro Labrador Parish | <span>2018</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">Business Model Canvass Webinar<br><span>Technological University of the Philippines | <span>2020</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">Take Off: The Teaching Profession in the Time of 
+                        Pandemic<br><span>PUP College of Education | <span>2020</span></span></p>
+                        <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">GuroTech: Mastering the Use of Emerging Online 
+                        Platforms in Remote Teaching<br><span>PUP College of Education | <span>2020</span></span></p>
+                            <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                    <li><p class="tags">IM READY: Facilitating and Assessing Modular In 
+                        Structural Materials in Remote Teaching<br><span>PUP College of Education | <span>2020</span></span></p>
+                                <a class="edit" href="#"><i class="fas fa-pen stroke-transparent-blue"></i></a></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
